@@ -1,8 +1,8 @@
-### Hi there, I'm Dierta Pasific 👋
+### Hello there, I'm Dierta Pasific 🙋‍♂️
 
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
-- 🚧 I just finished my first project: [Guess Number Game ][https://github.com/diertapasific/guess_number_game]!
+- 🚧 I just finished my first project: [Guess Number Project][FirstProject]!
 - 📚 I'm currently learning C programming language 
 - 🏁 2021 Goals: Learn more language on programming
 - ⚡ Fun fact: I love pop music and playing games
@@ -65,6 +65,6 @@
 [Githubwiki]: https://en.wikipedia.org/wiki/GitHub
 [instagram]: https://www.instagram.com/diertapasific/
 [Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[FirstProject]: https://github.com/diertapasific/guess_number_game
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
