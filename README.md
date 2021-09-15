@@ -64,7 +64,7 @@
 [Cwiki]: https://en.wikipedia.org/wiki/C_(programming_language)
 [Githubwiki]: https://en.wikipedia.org/wiki/GitHub
 [instagram]: https://www.instagram.com/diertapasific/
-[Linkedin]: linkedin.com/in/dierta-pasific-a033651b5
+[Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
