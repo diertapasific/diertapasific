@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/diertapasific/profile/blob/main/linkedin-logo-png-2026.png" />][Linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/diertapasific/profile/blob/main/600px-Instagram_icon.png" />][instagram]
 
 <br />
 
