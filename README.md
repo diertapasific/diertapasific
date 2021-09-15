@@ -16,8 +16,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />]s[https://en.wikipedia.org/wiki/C_(programming_language)]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][https://en.wikipedia.org/wiki/GitHub]
+[<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />][Cwiki]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Githubwiki]
 <br />
 <br />
 
@@ -60,3 +60,8 @@
 </details>
 
 
+
+[Cwiki]: https://en.wikipedia.org/wiki/C_(programming_language)
+[Githubwiki]: https://en.wikipedia.org/wiki/GitHub
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
