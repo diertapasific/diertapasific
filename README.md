@@ -4,7 +4,7 @@
 
 - 🚧 I just finished my first project: [Guess Number Project][FirstProject]!
 - 📚 I'm currently learning C programming language 
-- 🏁 2021 Goals: Learn more language on programming and join some Competitive Programming competition
+- 🏁 2021 Goals: Learn more language on programming
 - ⚡ Fun fact: I love pop music and playing games
 
 ### Connect with me:
