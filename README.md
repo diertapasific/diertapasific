@@ -33,5 +33,3 @@
 [instagram]: https://www.instagram.com/diertapasific/
 [Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
 [FirstProject]: https://github.com/diertapasific/guess_number_game
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
