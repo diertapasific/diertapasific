@@ -16,9 +16,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />][Cwiki]
-[<img align="left" alt="C++" width="26px" src="https://github.com/diertapasific/profile/blob/main/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-removebg-preview%20(1).png" />][Cppwiki]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/diertapasific/profile/blob/main/pngaaa.com-94898.png" />][Githubwiki]
+[<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />]
+[<img align="left" alt="C++" width="26px" src="https://github.com/diertapasific/profile/blob/main/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-removebg-preview%20(1).png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/diertapasific/profile/blob/main/pngaaa.com-94898.png" />]
 <br />
 <br />
 
@@ -29,9 +29,7 @@
 
 
 
-[Cwiki]: https://en.wikipedia.org/wiki/C_(programming_language)
-[Cppwiki]: https://en.wikipedia.org/wiki/C%2B%2B
-[Githubwiki]: https://en.wikipedia.org/wiki/GitHub
+
 [instagram]: https://www.instagram.com/diertapasific/
 [Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
 [FirstProject]: https://github.com/diertapasific/guess_number_game
