@@ -3,7 +3,7 @@
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
 - 🚧 I just finished my first project: [Guess Number Project][FirstProject]!
-- 📚 I'm currently learning C programming language 
+- 📚 I'm currently focusing on Website Development 
 - 🏁 2021 Goals: Learn more language on programming
 - ⚡ Fun fact: I love pop music and playing games
 
