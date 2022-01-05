@@ -7,7 +7,7 @@
 - 🏁 2021 Goals: Learn more language on programming
 - ⚡ Fun fact: I love pop music and playing games
 
-### Connect with me:
+### 📱 Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/diertapasific/profile/blob/main/linkedin-logo-png-2026.png" />][Linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/diertapasific/profile/blob/main/600px-Instagram_icon.png" />][instagram]
