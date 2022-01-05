@@ -21,6 +21,7 @@
 [<img align="left" alt="HTML" width="26px" src="https://github.com/diertapasific/profile/blob/main/1024px-HTML5_Badge.svg.png" />][HTML]
 [<img align="left" alt="CSS" width="26px" src="https://github.com/diertapasific/profile/blob/main/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail-removebg-preview.png" />][CSS]
 [<img align="left" alt="JS" width="26px" src="https://github.com/diertapasific/profile/blob/main/javascript-programmer-node-js-web-application-vector-markup-language-removebg-preview.png" />][JS]
+[<img align="left" alt="Figma" width="26px" src="https://github.com/diertapasific/profile/blob/main/pngaaa.com-94898.png" />][FG]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/diertapasific/profile/blob/main/pngaaa.com-94898.png" />][GH]
 <br />
 <br />
@@ -28,7 +29,7 @@
 ---
 
 
-
+[FG]:https://www.figma.com
 [JS]:https://en.wikipedia.org/wiki/JavaScript
 [HTML]:https://en.wikipedia.org/wiki/HTML
 [CSS]:https://en.wikipedia.org/wiki/CSS
