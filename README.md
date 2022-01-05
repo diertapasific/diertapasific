@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />][Cwiki]
 [<img align="left" alt="C++" width="26px" src="https://github.com/diertapasific/profile/blob/main/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-removebg-preview%20(1).png" />][CPP]
