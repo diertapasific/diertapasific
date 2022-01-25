@@ -2,7 +2,7 @@
 
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
-- 🚧 Finished my first project: [Guess Number Project][FirstProject]!
+- 🚧 Visit my latest project: [Latest Project][FirstProject]!
 - 📚 I'm currently focusing on Website Development 
 - 🏁 2021 Goals: Learn more language on programming
 - ⚡ Fun fact: I love pop music and playing games
@@ -38,4 +38,4 @@
 [GH]:https://en.wikipedia.org/wiki/GitHub
 [instagram]: https://www.instagram.com/diertapasific/
 [Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
-[FirstProject]: https://github.com/diertapasific/guess_number_game
+[FirstProject]: https://github.com/diertapasific/games_compilation
