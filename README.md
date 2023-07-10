@@ -3,7 +3,7 @@
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
 - 🚧 Visit my latest project: [Latest Project][FirstProject]!
-- 📚 I'm currently focusing on Website Development 
+- 📚 I'm currently focusing on Android Development 
 - 🏁 2023 Goals: Learn more language on programming & have a definite work plan
 - ⚡ Fun fact: I love pop music and playing games
 
