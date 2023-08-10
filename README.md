@@ -4,7 +4,7 @@
 
 - 🚧 Visit my latest project: [Latest Project][FirstProject]!
 - 📚 I'm currently focusing on Android Development 
-- 🏁 2023 Goals: Learn more language on programming & have a definite work plan
+- 🏁 2023 Goals: Making personal android application projects
 - ⚡ Fun fact: I love pop music and playing games
 
 ### Connect with me:
