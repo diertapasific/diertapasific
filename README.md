@@ -5,7 +5,7 @@
 - 🚧 Visit my latest project: [Latest Project][FirstProject]!
 - 📚 I'm currently focusing on Mobile App Development 
 - 🏁 2023 Goals: Making personal mobile application projects
-- ⚡ Fun fact: I love pop music and korean rnb
+- ⚡ Fun fact: I love pop music and korean RnB
 
 ### Connect with me:
 
