@@ -3,9 +3,9 @@
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
 - 🚧 Visit my latest project: [Latest Project][FirstProject]!
-- 📚 I'm currently focusing on Android Development 
-- 🏁 2023 Goals: Making personal android application projects
-- ⚡ Fun fact: I love pop music and playing games
+- 📚 I'm currently focusing on Mobile App Development 
+- 🏁 2023 Goals: Making personal mobile application projects
+- ⚡ Fun fact: I love pop music and korean rnb
 
 ### Connect with me:
 
