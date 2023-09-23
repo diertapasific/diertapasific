@@ -2,10 +2,11 @@
 
 ## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
 
-- 🚧 Visit my latest project: [Latest Project][FirstProject]!
+- 🚧 Visit my latest project: [Latest Project][LatestProjects]!
 - 📚 I'm currently focusing on Mobile App Development 
 - 🏁 2023 Goals: Making personal mobile application projects
 - ⚡ Fun fact: I love pop music and korean RnB
+- 🔗 My Website: [diertapasific.github.io][https://diertapasific.github.io]
 
 ### Connect with me:
 
@@ -33,4 +34,4 @@
 [GH]:https://en.wikipedia.org/wiki/GitHub
 [instagram]: https://www.instagram.com/diertapasific/
 [Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
-[FirstProject]:  https://github.com/diertapasific/MoneyManagerApp
+[LatestProjects]:  https://github.com/diertapasific/MoneyManagerApp
