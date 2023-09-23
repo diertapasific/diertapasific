@@ -1,6 +1,6 @@
 ### Hello there, I'm Dierta Pasific 🙋‍♂️
 
-## I'm a student at BINA NUSANTARA UNIVERSITY BANDUNG !
+## I'm a student at Bina Nusantara Univeristy !
 
 - 🚧 Visit my latest project: [Latest Project][LatestProjects]!
 - 📚 I'm currently focusing on Mobile App Development 
