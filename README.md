@@ -1,38 +1,52 @@
-### Hello there, I'm Dierta Pasific 🙋‍♂️
+# Hi there, I'm Dierta Pasific! 👋
 
-## I'm a student at Bina Nusantara Univeristy !
+## 🚀 About Me
+I'm a **Data Science & Machine Learning Enthusiast** with a background in **software development**. Currently, I am transitioning my career towards **Data Science and Machine Learning**, focusing on data-driven solutions and AI-powered applications.
 
-- 🚧 Visit my latest project: [Latest Project][LatestProjects]!
-- 📚 I'm currently focusing on Mobile App Development 
-- 🏁 2023 Goals: Making personal mobile application projects
-- ⚡ Fun fact: I love pop music and korean RnB
-- 🔗 My Website: [diertapasific.github.io][website]
+🎓 **Computer Science Student** at Bina Nusantara University, Indonesia  
+💻 **Tech Enthusiast** | Solving complex problems and building innovative solutions through technology.
 
-### Connect with me:
+## 💼 Experience
+- Working with **database management**.
+- Exploring **machine learning models** for predictive analytics.
+- Developing and maintaining **backend services** for production environments.
+- Implementing **Google Cloud Functions** for scalable serverless solutions.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/diertapasific/profile/blob/main/linkedin-logo-png-2026.png" />][Linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/diertapasific/profile/blob/main/600px-Instagram_icon.png" />][instagram]
+## 🛠 Tech Stack
+```yaml
+Programming Languages:
+  - Python
+  - Java
+  - SQL
+  - Swift
+  - JavaScript
+  - C
 
-<br />
+Data Science & ML:
+  - Pandas
+  - NumPy
+  - Scikit-Learn
+  - TensorFlow
+  - Matplotlib
+  - Seaborn
 
-### Languages and Tools:
+Tools:
+  - Google Colab
+  - Github
+  - Visual Studio Code
+  - Microsoft Office
+  - Google Cloud Platform
+```
 
-[<img align="left" alt="AndroidStudio" width="26px" src="https://github.com/diertapasific/profile/blob/main/Android_Studio_Icon_3.6.svg.png" />][AndroidStudio]
-[<img align="left" alt="C" width="26px" src="https://github.com/diertapasific/profile/blob/main/5a36954d40bea2.0735336615135266052652.png" />][Cwiki]
-[<img align="left" alt="C++" width="26px" src="https://github.com/diertapasific/profile/blob/main/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-removebg-preview%20(1).png" />][CPP]
-[<img align="left" alt="Figma" width="26px" src="https://github.com/diertapasific/profile/blob/main/figma2.png" />][FG]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/diertapasific/profile/blob/main/pngaaa.com-94898.png" />][GH]
-<br />
-<br />
+## 📌 Notable Projects
+- [Frezz](https://github.com/shafamira/frezz) – Designed & trained a **CNN model** to classify fresh and unfresh fruits, with a dataset of labeled fruit images.
+- [Telecom Customer Churn Analysis](https://github.com/diertapasific/telecom-churn) – Conducted advanced **exploratory data analysis** and built **predictive models** using Python libraries such as Pandas, NumPy, and Scikit-learn. 
+- [VeganFuel](https://github.com/diertapasific/VeganFuel) – Developed a **Swift-based iOS application** that provides users with a diverse selection of vegan food options, focusing on a user-friendly and visually engaging interface.
 
----
+## 📫 Get in Touch
+- 💼 [LinkedIn](http://linkedin.com/in/dierta-pasific)
+- 📧 diertapasific@gmail.com
+- 🌐 [Portfolio](https://diertapasific.super.site/)
 
-[AndroidStudio]:https://developer.android.com/studio?gclid=CjwKCAjw-7OlBhB8EiwAnoOEk2bK3O6ihbchRK4rly1KnFw3hKiH5y5Oxx1eZGwjk4v83pCwoyxmrRoCuiwQAvD_BwE&gclsrc=aw.ds
-[FG]:https://www.figma.com
-[Cwiki]: https://en.wikipedia.org/wiki/C_(programming_language)
-[CPP]:https://en.wikipedia.org/wiki/C%2B%2B
-[GH]:https://en.wikipedia.org/wiki/GitHub
-[instagram]: https://www.instagram.com/diertapasific/
-[Linkedin]: https://www.linkedin.com/in/dierta-pasific-a033651b5/
-[LatestProjects]:  https://github.com/diertapasific/MoneyManagerApp
-[website]: https://diertapasific.github.io
+  
+Let's connect and build something amazing together! 🚀
