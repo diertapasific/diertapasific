@@ -39,6 +39,7 @@ Tools:
 ```
 
 ## 📌 Notable Projects
+- [ChatDP](https://github.com/diertapasific/diertapasific.github.io) – Developed a custom **AI chatbot** using a fine-tuned sentence transformer model, optimized for fast, client-side inference.
 - [Frezz](https://github.com/shafamira/frezz) – Designed & trained a **CNN model** to classify fresh and unfresh fruits, with a dataset of labeled fruit images.
 - [Telecom Customer Churn Analysis](https://github.com/diertapasific/telecom-churn) – Conducted advanced **exploratory data analysis** and built **predictive models** using Python libraries such as Pandas, NumPy, and Scikit-learn. 
 - [VeganFuel](https://github.com/diertapasific/VeganFuel) – Developed a **Swift-based iOS application** that provides users with a diverse selection of vegan food options, focusing on a user-friendly and visually engaging interface.
@@ -46,7 +47,7 @@ Tools:
 ## 📫 Get in Touch
 - 💼 [LinkedIn](http://linkedin.com/in/dierta-pasific)
 - 📧 diertapasific@gmail.com
-- 🌐 [Portfolio](https://diertapasific.super.site/)
+- 🌐 [Portfolio](https://diertapasific.github.io/)
 
   
 Let's connect and build something amazing together! 🚀
