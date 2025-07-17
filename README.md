@@ -1,16 +1,18 @@
 # Hi there, I'm Dierta Pasific! 👋
 
 ## 🚀 About Me
-I'm a **Data Science & Machine Learning Enthusiast** with a background in **software development**. Currently, I am transitioning my career towards **Data Science and Machine Learning**, focusing on data-driven solutions and AI-powered applications.
+I'm a **final-year Computer Science student** passionate about **building scalable systems** and **intelligent applications**. Currently, I'm diving deep into **Artificial Intelligence**, **Machine Learning**, and **Data Science**, with the goal of creating impactful, **data-driven solutions** that solve real-world problems.
 
-🎓 **Computer Science Student** at Bina Nusantara University, Indonesia  
-💻 **Tech Enthusiast** | Solving complex problems and building innovative solutions through technology.
+🎓 **Computer Science Student** at **Bina Nusantara University**, Indonesia  
+💻 **Tech Enthusiast** | Turning complex problems into innovative solutions through technology.
 
-## 💼 Experience
-- Working with **database management**.
-- Exploring **machine learning models** for predictive analytics.
-- Developing and maintaining **backend services** for production environments.
-- Implementing **Google Cloud Functions** for scalable serverless solutions.
+---
+
+## 💼 Experience & Skills
+- 🧠 **AI & Machine Learning**: Building and experimenting with ML models for predictive analytics.  
+- ⚙️ **Backend Development**: Designing and maintaining APIs and backend services for production environments.  
+- ☁️ **Cloud Computing**: Implementing Google Cloud Functions for scalable, serverless architectures.  
+- 🛠 **Tech Stack**: Java, Python, SQL, Google Cloud Platform, REST API Development. 
 
 ## 🛠 Tech Stack
 ```yaml
@@ -40,9 +42,9 @@ Tools:
 
 ## 📌 Notable Projects
 - [ChatDP](https://github.com/diertapasific/diertapasific.github.io) – Developed a custom **AI chatbot** using a fine-tuned sentence transformer model, optimized for fast, client-side inference.
+- [Cardify](https://github.com/diertapasific/cardify) – Built an AI-powered web application using Streamlit for generating flashcards from PDF documents.
+- [Rupcara](https://github.com/diertapasific/rupcara) – Developed a deep learning-based tool to recognize Indonesian Rupiah banknotes using a fine-tuned ResNet-18 model.
 - [Frezz](https://github.com/shafamira/frezz) – Designed & trained a **CNN model** to classify fresh and unfresh fruits, with a dataset of labeled fruit images.
-- [Telecom Customer Churn Analysis](https://github.com/diertapasific/telecom-churn) – Conducted advanced **exploratory data analysis** and built **predictive models** using Python libraries such as Pandas, NumPy, and Scikit-learn. 
-- [VeganFuel](https://github.com/diertapasific/VeganFuel) – Developed a **Swift-based iOS application** that provides users with a diverse selection of vegan food options, focusing on a user-friendly and visually engaging interface.
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](http://linkedin.com/in/dierta-pasific)
