@@ -48,7 +48,7 @@ Tools:
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](http://linkedin.com/in/dierta-pasific)
-- 📧 diertapasific@gmail.com
+- 📧 pasificdierta@gmail.com
 - 🌐 [Portfolio](https://diertapasific.github.io/)
 
   
